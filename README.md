@@ -4,7 +4,7 @@ This is a simple 3D parallax website built using HTML and CSS. The website creat
 Getting Started
 
 To get started with the 3D Parallax Website, follow the instructions below:
-git clone https://github.com/your-username/3d-parallax-website.git
+Git clone https://github.com/your-username/3d-parallax-website.git
 
 Navigate to the project directory:
 cd 3d-parallax-website
